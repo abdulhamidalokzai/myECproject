@@ -1,6 +1,6 @@
 # shop_app
 App made with Flutter
 
-Project: Shop List.
+Project: Shop app.
 
-Shop List app from the Maximilian Schwarzmüller's Udemy course
+Shop app from Abdul hamid alkozai 
